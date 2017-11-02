@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<project name="Clear Assets" default="Init" basedir="..\">
+
+ <target name="Init" failonerror="true">
+	 <property name="IconsFolderDev" value="EmptyProject\Content\Icon\Dev"/>
+	 <property name="IconsFolderUat" value="EmptyProject\Content\Icon\Uat"/>
+	 <delete dir="${IconsFolderDev}" />
+	 <delete dir="${IconsFolderUat}" />
+  </target>
+ </project>
+ 
