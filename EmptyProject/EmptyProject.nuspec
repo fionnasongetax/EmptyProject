@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>$title$</id>
+    <id>EmptyProject</id>
     <version>$version$</version>
-    <title>$title$</title>
+    <title>EmptyProject</title>
     <authors>Fionna</authors>
     <owners>Fionna</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
