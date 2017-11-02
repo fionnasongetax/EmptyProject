@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace ThisIsALibrary
 {
-    public class Class1
+    public class Math
     {
+
+        public int OnePlusOne()
+        {
+            return 2;
+        }
     }
 }
